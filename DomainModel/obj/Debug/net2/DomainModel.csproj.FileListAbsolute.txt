@@ -1,0 +1,6 @@
+C:\Users\Paula\Desktop\UAI\Trabajo de campo\1parcial\Parcial_Riveros\DomainModel\bin\Debug\net2\DomainModel.dll
+C:\Users\Paula\Desktop\UAI\Trabajo de campo\1parcial\Parcial_Riveros\DomainModel\bin\Debug\net2\DomainModel.pdb
+C:\Users\Paula\Desktop\UAI\Trabajo de campo\1parcial\Parcial_Riveros\DomainModel\obj\Debug\net2\DomainModel.AssemblyInfoInputs.cache
+C:\Users\Paula\Desktop\UAI\Trabajo de campo\1parcial\Parcial_Riveros\DomainModel\obj\Debug\net2\DomainModel.AssemblyInfo.cs
+C:\Users\Paula\Desktop\UAI\Trabajo de campo\1parcial\Parcial_Riveros\DomainModel\obj\Debug\net2\DomainModel.dll
+C:\Users\Paula\Desktop\UAI\Trabajo de campo\1parcial\Parcial_Riveros\DomainModel\obj\Debug\net2\DomainModel.pdb

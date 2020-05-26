@@ -1,0 +1,9 @@
+D:\Parcial_POO_Riveros\Parcial_Riveros\Parcial_Riveros\bin\Debug\Parcial_Riveros.exe.config
+D:\Parcial_POO_Riveros\Parcial_Riveros\Parcial_Riveros\bin\Debug\Parcial_Riveros.exe
+D:\Parcial_POO_Riveros\Parcial_Riveros\Parcial_Riveros\bin\Debug\Parcial_Riveros.pdb
+D:\Parcial_POO_Riveros\Parcial_Riveros\Parcial_Riveros\obj\Debug\Parcial_Riveros.csprojResolveAssemblyReference.cache
+D:\Parcial_POO_Riveros\Parcial_Riveros\Parcial_Riveros\obj\Debug\Parcial_Riveros.Form1.resources
+D:\Parcial_POO_Riveros\Parcial_Riveros\Parcial_Riveros\obj\Debug\Parcial_Riveros.Properties.Resources.resources
+D:\Parcial_POO_Riveros\Parcial_Riveros\Parcial_Riveros\obj\Debug\Parcial_Riveros.csproj.GenerateResource.Cache
+D:\Parcial_POO_Riveros\Parcial_Riveros\Parcial_Riveros\obj\Debug\Parcial_Riveros.exe
+D:\Parcial_POO_Riveros\Parcial_Riveros\Parcial_Riveros\obj\Debug\Parcial_Riveros.pdb

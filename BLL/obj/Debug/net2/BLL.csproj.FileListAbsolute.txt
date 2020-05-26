@@ -1,0 +1,3 @@
+C:\Users\Paula\Desktop\UAI\Trabajo de campo\1parcial\Parcial_Riveros\BLL\obj\Debug\net2\BLL.csprojAssemblyReference.cache
+C:\Users\Paula\Desktop\UAI\Trabajo de campo\1parcial\Parcial_Riveros\BLL\obj\Debug\net2\BLL.AssemblyInfoInputs.cache
+C:\Users\Paula\Desktop\UAI\Trabajo de campo\1parcial\Parcial_Riveros\BLL\obj\Debug\net2\BLL.AssemblyInfo.cs

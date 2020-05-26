@@ -1,0 +1,7 @@
+C:\Users\Paula\Desktop\UAI\Trabajo de campo\1parcial\Parcial_Riveros\DomainModel\obj\Debug\netstandard2.0\DomainModel.AssemblyInfoInputs.cache
+C:\Users\Paula\Desktop\UAI\Trabajo de campo\1parcial\Parcial_Riveros\DomainModel\obj\Debug\netstandard2.0\DomainModel.AssemblyInfo.cs
+C:\Users\Paula\Desktop\UAI\Trabajo de campo\1parcial\Parcial_Riveros\DomainModel\bin\Debug\netstandard2.0\DomainModel.deps.json
+C:\Users\Paula\Desktop\UAI\Trabajo de campo\1parcial\Parcial_Riveros\DomainModel\bin\Debug\netstandard2.0\DomainModel.dll
+C:\Users\Paula\Desktop\UAI\Trabajo de campo\1parcial\Parcial_Riveros\DomainModel\bin\Debug\netstandard2.0\DomainModel.pdb
+C:\Users\Paula\Desktop\UAI\Trabajo de campo\1parcial\Parcial_Riveros\DomainModel\obj\Debug\netstandard2.0\DomainModel.dll
+C:\Users\Paula\Desktop\UAI\Trabajo de campo\1parcial\Parcial_Riveros\DomainModel\obj\Debug\netstandard2.0\DomainModel.pdb
